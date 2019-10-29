@@ -7,23 +7,35 @@ title: 'Rio Grande do Norte'
 
 ### Acari
 
--  **[Portal da Transparência do Município de Acari](https://www.acari.rn.leg.br/transparencia)**: https://www.acari.rn.leg.br/transparencia
+-  **[Portal da Transparência da Prefeitura do Município de Acari](http://acari.rn.gov.br/transparencia/)**: http://acari.rn.gov.br/transparencia/
+-  **[Portal da Transparência da Câmara Munucipal de Acari](https://www.acari.rn.leg.br/transparencia)**: https://www.acari.rn.leg.br/transparencia
+-  **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/acari-rn/geral)**: https://www.gove.digital/dados-abertos/#/acari-rn/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 29/10/2019
 
 ### Afonso Bezerra
 
--  **[Portal da Transparência do Município de Afonso Bezerra](http://afonsobezerra.rn.gov.br/transp/)**: http://afonsobezerra.rn.gov.br/transp/
+-  **[Portal da Transparência da Prefeitura do Munucípio de Afonso Bezerra](http://afonsobezerra.rn.gov.br/transp/)**: http://afonsobezerra.rn.gov.br/transp/
+-  **[Portal da Transparência da Câmara Munucipal de Afonso Bezerra](https://www.afonsobezerra.rn.leg.br/)**: https://www.afonsobezerra.rn.leg.br/
+-  **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/afonso-bezerra-rn/geral)**: https://www.gove.digital/dados-abertos/#/afonso-bezerra-rn/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 29/10/2019
 
 ### Água Nova
 
--  **[Portal da Transparência do Município de Água Nova](https://aguanova.rn.gov.br/acessoainformacao.php)**: https://aguanova.rn.gov.br/acessoainformacao.php
+-  **[Portal da Transparência da Prefeitura do Município de Água Nova](https://aguanova.rn.gov.br/acessoainformacao.php)**: https://aguanova.rn.gov.br/acessoainformacao.php
+-  **Portal da Transparência da Câmara Municipal de Água Nova**: não localizado em 29/10/2019
+-  **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/agua-nova-rn/geral)**: https://www.gove.digital/dados-abertos/#/agua-nova-rn/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 29/10/2019
 
 ### Alexandria
 
--  **[Portal da Transparência do Município de Alexandria](http://www.transparenciaicone.com.br/alexandriarn/portaldatransparencia/)**: http://www.transparenciaicone.com.br/alexandriarn/portaldatransparencia/
+-  **[Portal da Transparência da Prefeitura do Município de Alexandria](http://www.transparenciaicone.com.br/alexandriarn/portaldatransparencia/)**: http://www.transparenciaicone.com.br/alexandriarn/portaldatransparencia/
+-  **Portal da Transparência da Câmara Munucipal de Alexandria**: não localizado em 29/10/2019
+-  **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/alexandria-rn/geral)**: https://www.gove.digital/dados-abertos/#/alexandria-rn/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 29/10/2019
 
 ### Almino Afonso
 
--  **[Portal da Transparência do Município de Almino Afonso](http://www.transparenciaicone.com.br/alminoafonsorn/portaldatransparencia/)**: http://www.transparenciaicone.com.br/alminoafonsorn/portaldatransparencia/
+-  **[Portal da Transparência da Prefeitura do Município de Almino Afonso](http://www.transparenciaicone.com.br/alminoafonsorn/portaldatransparencia/)**: http://www.transparenciaicone.com.br/alminoafonsorn/portaldatransparencia/
 
 ### Alto do Rodrigues
 
