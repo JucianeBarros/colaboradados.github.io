@@ -36,18 +36,30 @@ title: 'Rio Grande do Norte'
 ### Almino Afonso
 
 -  **[Portal da Transparência da Prefeitura do Município de Almino Afonso](http://www.transparenciaicone.com.br/alminoafonsorn/portaldatransparencia/)**: http://www.transparenciaicone.com.br/alminoafonsorn/portaldatransparencia/
+-  **Portal da Transparência da Câmara Munucipal de Almino Afonso**: não localizado em 30/10/2019
+-  **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/almino-afonso-rn/geral)**: https://www.gove.digital/dados-abertos/#/almino-afonso-rn/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 30/10/2019
 
 ### Alto do Rodrigues
 
--  **[Portal da Transparência do Município de Alto do Rodrigues](http://transparencia.altodorodrigues.rn.gov.br/)**: http://transparencia.altodorodrigues.rn.gov.br/
+-  **[Portal da Transparência da Prefeitura do Município de Alto do Rodrigues](http://transparencia.altodorodrigues.rn.gov.br/)**: http://transparencia.altodorodrigues.rn.gov.br/
+-  **[Portal da Transparência da Câmara Munucipal de Alto do Rodrigues](http://transparencia.altodorodrigues.rn.leg.br:81/)**: http://transparencia.altodorodrigues.rn.leg.br:81/
+-  **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/alto-do-rodrigues-rn/geral)**: https://www.gove.digital/dados-abertos/#/alto-do-rodrigues-rn/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 30/10/2019
 
 ### Angicos
 
--  **[Portal da Transparência do Município de Angicos](http://topdown.servehttp.com:8080/Transparencia/pmangicos/)**: http://topdown.servehttp.com:8080/Transparencia/pmangicos/
+-  **[Portal da Transparência da Prefeitura do Município de Angicos](http://topdown.servehttp.com:8080/Transparencia/pmangicos/)**: http://topdown.servehttp.com:8080/Transparencia/pmangicos/
+-  **[Portal da Transparência da Câmara Munucipal de Angicos](http://angicos.rn.leg.br/transp/)**: http://angicos.rn.leg.br/transp/
+-  **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/angicos-rn/geral)**: https://www.gove.digital/dados-abertos/#/angicos-rn/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 30/10/2019
 
 ### Antônio Martins
 
--  **[Portal da Transparência do Município de Antônio Martins](https://antoniomartins.rn.gov.br/portal-da-transparencia/)**: https://antoniomartins.rn.gov.br/portal-da-transparencia/
+-  **[Portal da Transparência da Prefeitura do Município de Antônio Martins](https://antoniomartins.rn.gov.br/portal-da-transparencia/)**: https://antoniomartins.rn.gov.br/portal-da-transparencia/
+-  **Portal da Transparência da Câmara Munucipal de Antônio Martins**: não localizado em 30/10/2019
+-  **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/antonio-martins-rn/geral)**: https://www.gove.digital/dados-abertos/#/antonio-martins-rn/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 30/10/2019
 
 ### Apodi
 
